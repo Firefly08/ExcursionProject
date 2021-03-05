@@ -10,4 +10,4 @@ Description: Excursion - CodeCademy Project
 
 > We’ll work with Git and GitHub on our local machines, so if you haven’t yet, refer to the articles on Command Line Interface Setup and Git Setup.
 
-*PS. The project is also responsive (for mobile). Enjoy!
+*PS. The project is also responsive (for mobile). Enjoy!*
